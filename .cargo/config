@@ -1,3 +1,4 @@
 [target.aarch64-linux-android]
+# My config for example
 ar = "C:/Users/Saltedfish/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/aarch64-linux-ar.cmd"
 linker = "C:/Users/Saltedfish/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/aarch64-linux-android29-clang++.cmd"
